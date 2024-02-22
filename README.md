@@ -6,6 +6,7 @@ Installation:
 -	Install PICSimLab used for coding and simulation
   
 Usage:
+
 PICSimLab will replicate the behavior of an embedded controller in a microwave oven.
 Feel free to explore how the project works and how microwave oven can be simulated by watching the below link:
 https://www.youtube.com/watch?v=z7zAjMgdGnA
